@@ -8,11 +8,16 @@ p {
   font-family: sans-serif;
 }
 
+div {
+  font-family: verdana;
+  font-family: sans-serif;
+}
+
 .first-element {
 
 }
 
-.second-element {
+#second-element {
   color: blue;
   font-size: 36px
 }
@@ -21,7 +26,7 @@ p {
   font-size: 24px;
 }
 
-.fourth-element {
+#fourth-element {
   background-color: lightgreen;
   font-size: 24px;
   font-weight: bold;
